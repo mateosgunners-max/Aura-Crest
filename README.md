@@ -1,0 +1,2 @@
+# Aura & Crest | Professional Business Consulting Website Template
+A complete, production-ready, multi-page business website template engineered specifically for selling to local businesses and mid-market firms ($500 – $2,000 value). Built using pure semantic HTML5, modern CSS3 (with CSS Custom Properties/variables, Grid, and Flexbox), and vanilla ES6+ JavaScript—with zero framework dependencies, external runtime libraries, or build steps.
